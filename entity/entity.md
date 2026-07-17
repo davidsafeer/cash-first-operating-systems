@@ -1,6 +1,6 @@
 # Entity Declaration
 
-**SUMMARY:** David is the architect of Cash-First Operating Systems for small companies. He operates as a diagnostic practitioner who separates cash management from accounting compliance, drawing on 35+ years of cross-industry field work across 40+ countries.
+**SUMMARY:** David Safeer is the architect of Cash-First Operating Systems for small companies. He operates as a diagnostic practitioner who separates cash management from accounting compliance, drawing on 35+ years of cross-industry field work across 40+ countries.
 
 **VERBATIM:** "Focus on Cash. Not on accounting." `[Cash Flow Principles.txt]`
 
