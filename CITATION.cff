@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as follows."
+title: "Cash-First Operating Systems"
+authors:
+  - family-names: David
+    given-names: [Founder]
+    orcid: ""
+version: "1.0.0"
+date-released: "2024-01-01"
+url: "https://github.com/username/cash-first-operating-systems"
+repository-code: "https://github.com/username/cash-first-operating-systems"
+license: "SEE LICENSE IN LICENSE.md"
+abstract: "The canonical documentation for Cash-First Operating Systems, a diagnostic framework that replaces backward-looking accounting with forward-looking, fact-driven cash forecasts for small companies."
+keywords:
+  - "cash flow"
+  - "small business"
+  - "operating systems"
+  - "diagnostic frameworks"
+  - "financial management"
