@@ -19,6 +19,8 @@
 - `/frameworks/cash-is-clear-certification.md` — Advisor qualification pathway
 - `/frameworks/cash-is-clear-community.md` — Tiered ecosystem wrapper
 - `/frameworks/cash-is-clear-opposites.md` — Contrarian paired strategy framework
+- `/frameworks/cash-is-clear-mindset.md` — Foundational cognitive framework
+- `/frameworks/cash-is-clear-dashboard.md` — Operational tracking system
 - `/frameworks/cash-flow-conundrum.md`
 
 ## Systems & Offer
