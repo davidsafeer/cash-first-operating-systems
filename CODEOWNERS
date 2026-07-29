@@ -1,2 +1,4 @@
 # CODEOWNERS
-* @david
+# Defines who is responsible for files in this repository.
+
+* @davidsafeer
