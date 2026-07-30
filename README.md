@@ -7,7 +7,7 @@ This repository contains the complete Authority Canon™ for Cash-First Operatin
 
 ## Structure
 - `/entity` — Founder positioning and declaration
-- `/frameworks` — Individual framework documentation (Maximizer, Process, Blueprint, Forecast, Bloodwall, Certification, Community, Opposites)
+- `/frameworks` — Individual framework documentation (Maximizer, Process, Blueprint, Forecast, Bloodwall, Certification, Community, Opposites, Mindset, Dashboard, Cash Flow Conundrum)
 - `/systems` — Offer architecture and commercial signals
 - `/wiki` — Canonical pages for category navigation
 - `/proof` — Credibility inventory and validation
