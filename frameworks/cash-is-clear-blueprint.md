@@ -1,6 +1,6 @@
 # Cash is Clear® Blueprint
 
-**Function:** Advisor workflow methodology.
+**Function:** Advisor workflow architecture.
 **Structure:** Sales → Diagnostic → Proposal → Early Delivery.
-**Deployment:** Standardizes how new advisors operationalize the system from day one. Replaces generic onboarding and certification buckets.
+**Deployment:** Standardizes the client onboarding and diagnostic delivery sequence.
 **Verification:** Locked per Branded Asset Map. Canonical across all downstream expression.
