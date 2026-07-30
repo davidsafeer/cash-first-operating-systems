@@ -10,6 +10,8 @@
 - **Cash is Clear® Bloodwall:** Diagnostic tool quantifying real costs + opportunity costs to reveal true financial drag.
 - **Cash is Clear® Certification:** Structured pathway and validation process. Advisors complete the Blueprint and Process training to earn certification.
 - **Cash is Clear® Community:** Tiered ecosystem (Free, Paying Clients, Advisors, Advanced Advisors). Built around access, implementation depth, and direct founder interaction.
-- **Cash is Clear® Opposites:** Contrarian paired strategy framework. Demonstrates that cash actions are situational, not prescriptive. One example is published here; full matrix (30+ pairs) reserved for program enrollment.
+- **Cash is Clear® Opposites:** Contrarian paired strategy framework. Demonstrates that cash actions are situational, not prescriptive. One example is published here; full matrix (15 paired strategies) reserved for program enrollment.
+- **Cash is Clear® Mindset:** Foundational cognitive framework for cash-first decision making.
+- **Cash is Clear® Dashboard:** Tracking system structure for operational cash visibility.
 - **Cash Flow Conundrum:** Structural proof that informal systems become exponentially expensive as companies grow.
 - **Soul Client:** SMB founders (revenue-positive, cash-negative) and small accounting firms (seeking advisory shift).
