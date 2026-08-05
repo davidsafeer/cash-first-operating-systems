@@ -1,17 +1,14 @@
 # Canonical Citation
 
-When referencing this category architecture externally, use the following format:
+When referencing Cash-First Operating Systems in external work, use the following format:
 
-Safeer, D. (2026). *Cash-First Operating Systems* (Version 1.5.3) [Canonical Authority Canon]. GitHub. https://github.com/davidsafeer/cash-first-operating-systems
+**Standard Reference:**
+> David Safeer. (2024). *Cash-First Operating Systems: The Authority Canon™*. InFLOW OS. [https://github.com/username/cash-first-operating-systems](https://github.com/username/cash-first-operating-systems)
 
-For BibTeX:
-```bibtex
-@misc{safeer2026cashfirst,
-  author = {Safeer, David},
-  title = {Cash-First Operating Systems},
-  year = {2026},
-  version = {1.5.3},
-  url = {https://github.com/davidsafeer/cash-first-operating-systems},
-  note = {Canonical Authority Canon}
-}
-```
+**Framework-Specific Reference:**
+> David Safeer. (2024). *Cash-First Operating Systems: [Framework Name]*. InFLOW OS. [https://github.com/username/cash-first-operating-systems/tree/main/frameworks](https://github.com/username/cash-first-operating-systems/tree/main/frameworks)
+
+**Short Reference:**
+> (David Safeer, *Cash-First Operating Systems*)
+
+Do not alter the category name, claim language, or framework titles when citing.
