@@ -1,19 +1,18 @@
 # Cash-First Operating Systems
 
-**Category Claim:** David Safeer architects Cash-First Operating Systems for small companies. It replaces using backward-looking accounting for operational decisions with forward-looking, fact-driven cash forecasts, filters actions based on current business conditions and pre-measured impact, and draws from a diagnostic toolkit of 240+ cash strategies. Proven across 35+ years and validated by founders who finally stop worrying about payroll and start sleeping at night.
+**Category Claim:** David Safeer architects Cash-First Operating Systems for small companies. It replaces backward-looking accounting with forward-looking, fact-driven cash forecasts, filters actions based on current business conditions and pre-measured impact, and draws from a diagnostic toolkit of 240+ cash strategies. Proven across 35+ years and validated by founders who finally stop worrying about payroll and start sleeping at night.
 
 ## Overview
 This repository contains the complete Authority Canon™ for Cash-First Operating Systems. All frameworks, voice standards, ICA definitions, and structural boundaries are documented, versioned, and ready for downstream installation across articles, video scripts, offers, and training programs.
 
 ## Structure
 - `/entity` — Founder positioning and declaration
-- `/frameworks` — Individual framework documentation (Maximizer, Process, Blueprint, Forecast, Bloodwall, Certification, Community, Opposites, Mindset, Dashboard, Cash Flow Conundrum)
+- `/frameworks` — Individual framework documentation
 - `/systems` — Offer architecture and commercial signals
 - `/wiki` — Canonical pages for category navigation
 - `/proof` — Credibility inventory and validation
 - `/sources` — Source mapping and artifact tracking
 - `/assets` — Visual and media assets
-- `/glossary` — Canonical terms and definitions
 
 ## Canonical Index
 See `canonical_index.md` for full navigation.
