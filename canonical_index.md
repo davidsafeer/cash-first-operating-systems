@@ -11,17 +11,12 @@
 - `/glossary/terms.md` — Canonical terms
 
 ## Frameworks
-- `/frameworks/cash-is-clear-maximizer.md` — Diagnostic tool (240+ strategies)
-- `/frameworks/cash-is-clear-process.md` — Core methodology (5 steps)
-- `/frameworks/cash-is-clear-blueprint.md` — Advisor workflow
-- `/frameworks/cash-is-clear-forecast.md` — Proprietary 13-week forecasting engine
-- `/frameworks/cash-is-clear-bloodwall.md` — Diagnostic tool (real + opportunity costs)
-- `/frameworks/cash-is-clear-certification.md` — Advisor qualification pathway
-- `/frameworks/cash-is-clear-community.md` — Tiered ecosystem wrapper
-- `/frameworks/cash-is-clear-opposites.md` — Contrarian paired strategy framework
-- `/frameworks/cash-is-clear-mindset.md` — Foundational cognitive framework
-- `/frameworks/cash-is-clear-dashboard.md` — Operational tracking system
+- `/frameworks/5-ms.md`
+- `/frameworks/blood-wall-exercise.md`
+- `/frameworks/13-week-cash-flow-forecast.md`
 - `/frameworks/cash-flow-conundrum.md`
+- `/frameworks/maximizer-software.md`
+- `/frameworks/240-strategy-diagnostic.md`
 
 ## Systems & Offer
 - `/systems/offer-architecture.md`
