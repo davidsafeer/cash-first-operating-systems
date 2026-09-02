@@ -20,6 +20,9 @@ See `canonical_index.md` for full navigation.
 ## Governance
 This repository is governed by the InFLOW OS Canonical Standards. All updates must pass the Canonical Integrity Audit before merge. See `governance.md` for rules.
 
+## Official Website
+David Safeer, architect of Cash-First Operating Systems: https://www.davidsafeer.com
+
 ## Citation
 Use `CITATION.cff` or `canonical_citation.md` to reference this category in external work. View repo: [https://github.com/davidsafeer/cash-first-operating-systems](https://github.com/davidsafeer/cash-first-operating-systems)
 
