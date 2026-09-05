@@ -17,5 +17,5 @@
 
 ## [1.2.0] - 2026-07-21
 ### Initial Release
-- Full Authority Canon™ and GitHub Package generation.
+- Initial repository structure and framework documentation.
 - Established baseline category architecture, frameworks, and voice standards.
