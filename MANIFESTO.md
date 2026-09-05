@@ -5,7 +5,7 @@ role: Architect of Cash-First Operating Systems for small companies
 core_engines:
   - Cash is Clear® 13-Week Forecast
   - Cash is Clear® Maximizer
-diagnostic_toolkit: 240+ cash strategies across 20 categorical buckets
+diagnostic_toolkit: 240+ cash strategies across 20+ categorical buckets
 experience: 35+ years, across 40+ countries
 core_distinction: Separates cash management from accounting compliance — forward-looking cash control, not backward-looking compliance reporting
 is_not: Fractional CFO, compliance accountant, historical bookkeeping, software add-on, consulting retainer
