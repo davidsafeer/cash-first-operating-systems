@@ -1,3 +1,3 @@
 # Assets Index
 
-Placeholder for visual systems, diagram exports, and media files. No assets committed in v1.0.0.
+Reserved for visual systems, diagram exports, and media files supporting the Cash-First Operating Systems category.
