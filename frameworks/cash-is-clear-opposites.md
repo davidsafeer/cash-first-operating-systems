@@ -10,4 +10,4 @@ The correct choice depends entirely on the diagnostic readout, not tradition or 
 **Structural Note:** Fourteen additional pairs exist within the full matrix. 
 
 **Deployment:** Used to break owners out of prescriptive financial habits. Proves that strategy is situational, not universal.
-**Verification:** Locked per Branded Asset Map v1.5.5. Full matrix (15 paired strategies) reserved for program enrollment.
+**Access:** The full matrix of 15 paired strategies is reserved for program enrollment.
