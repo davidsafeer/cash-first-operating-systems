@@ -3,15 +3,15 @@
 **Direct Consulting:**
 - 3–4 month hands-on engagement.
 - Starts with diagnostic (Blood Wall, 13-week forecast), moves to strategy filtering and implementation.
-- Success = owner runs the system independently. `[CIC_The_No_List.md]`
+- Success = owner runs the system independently.
 
 **Advisor Training:**
-- Scales impact through the 5 Ms and Maximizer tool.
+- Scales impact through the Cash is Clear® Process and the Cash is Clear® Maximizer.
 - Trains accountants/consultants to deliver cash advisory.
-- **VERBATIM:** "For every advisor I train, I can help 5, 10, 50, 100 companies." `[Session Chat]`
+- For every advisor I train, I can help 5, 10, 50, 100 companies."
 
 **Boundary Enforcement:**
 - Won't do perpetual model updates, accounting cleanup, or "CFO services."
-- Won't chase "need to think about it" prospects. `[CIC_The_No_List.md]`
+- Won't chase "need to think about it" prospects.
 
-**INFERENCE:** The offer architecture is built to transition clients from diagnostic dependency to operational self-sufficiency, then leverage trained advisors for market multiplication.
+The offer architecture is built to transition clients from diagnostic dependency to operational self-sufficiency, then leverage trained advisors for market multiplication.
