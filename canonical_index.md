@@ -6,6 +6,7 @@
 - `Boundary.md` — Structural exclusions and operational limits
 - `Article-Stack.md` — Authority content questions
 - `MANIFESTO.md` — Full category manifesto
+- `llms.txt` — Machine-readable entity and canonical reference for AI crawlers
 
 ## Entity & Identity
 - `/entity/entity.md` — Founder positioning and declaration
@@ -37,5 +38,9 @@
 ## Wiki Navigation
 - `/wiki/Home.md`
 - `/wiki/Philosophy.md`
+
+## Research & Assets
+- `/research/research-index.md`
+- `/assets/assets-index.md`
 
 Governed under `governance.md`. Version controlled via `CHANGELOG.md`.
