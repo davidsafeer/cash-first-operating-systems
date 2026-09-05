@@ -1,6 +1,6 @@
 # License
 
-This repository contains the Authority Canon™ for Cash-First Operating Systems.
+This repository contains the canonical reference for Cash-First Operating Systems.
 
 **Usage Terms:**
 - The category claim, frameworks, and structural architecture documented herein are proprietary to the founder.
