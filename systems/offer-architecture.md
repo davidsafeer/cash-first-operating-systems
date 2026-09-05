@@ -8,7 +8,7 @@
 **Advisor Training:**
 - Scales impact through the Cash is Clear® Process and the Cash is Clear® Maximizer.
 - Trains accountants/consultants to deliver cash advisory.
-- For every advisor I train, I can help 5, 10, 50, 100 companies."
+- For every advisor I train, I can help 5, 10, 50, 100 companies.
 
 **Boundary Enforcement:**
 - Won't do perpetual model updates, accounting cleanup, or "CFO services."
