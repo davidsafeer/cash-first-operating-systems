@@ -2,7 +2,7 @@
 
 **Direct Consulting:**
 - 3–4 month hands-on engagement.
-- Starts with diagnostic (Blood Wall, 13-week forecast), moves to strategy filtering and implementation.
+- Starts with diagnostic (Bloodwall, 13-week forecast), moves to strategy filtering and implementation.
 - Success = owner runs the system independently.
 
 **Advisor Training:**
