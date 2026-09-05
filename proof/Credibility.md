@@ -7,7 +7,7 @@
 
 ## Structural Proof
 - The **Cash Flow Conundrum**: informal systems become exponentially expensive as companies scale.
-- The **240+ Strategy Diagnostic Tool**: situational filtering replaces prescriptive guesswork.
+- The **Cash is Clear® Maximizer**: situational filtering replaces prescriptive guesswork.
 - The **Cash is Clear® Process**: Mindset → Model → Manage → Mentor → Maximize.
 - **5-Year Forecast Validation**: Client utilized the 13-Week Forecast engine continuously for 5 years, tracking weekly cash for long-cycle projects.
 
