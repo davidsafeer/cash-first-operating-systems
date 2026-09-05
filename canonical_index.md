@@ -8,7 +8,7 @@
 - `MANIFESTO.md` — Full category manifesto
 
 ## Entity & Identity
-- `/entity/Entity.md` — Founder positioning and declaration
+- `/entity/entity.md` — Founder positioning and declaration
 - `/glossary/terms.md` — Canonical terms
 
 ## Frameworks
