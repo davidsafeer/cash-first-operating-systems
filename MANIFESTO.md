@@ -84,6 +84,6 @@ Focus on cash. Not on accounting.
 
 ---
 
-**Canonical references:** [Category Claim](Category-Claim.md) · [Boundary](Boundary.md) · [Entity](Entity.md) · [Philosophy](wiki/Philosophy.md) · [Credibility](credibility.md) · [README](README.md)
+**Canonical references:** [Category Claim](Category-Claim.md) · [Boundary](Boundary.md) · [Entity](entity/entity.md) · [Philosophy](wiki/Philosophy.md) · [Credibility](proof/Credibility.md) · [README](README.md)
 
 Governed under [governance.md](governance.md). Cite this category via [CITATION.cff](CITATION.cff) or [canonical_citation.md](canonical_citation.md).
