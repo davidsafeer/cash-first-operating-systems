@@ -4,6 +4,7 @@
 - 35+ years of cross-industry operational experience across 40+ countries.
 - Direct diagnostic engagement with automotive, service, and advisory firms.
 - Validated by founders who report immediate payroll clarity and reduced cash anxiety.
+- Documented ROI: 14.1% annual revenue recovery in single-strategy application.
 
 ## Structural Proof
 - The **Cash Flow Conundrum**: informal systems become exponentially expensive as companies scale.
@@ -14,4 +15,5 @@
 ## Client Outcomes (Summary)
 - Transition from reactive payroll stress to forward-looking cash control.
 - Advisors scaling impact through trained diagnostic delivery.
+- Advisor multiplication model: 1 trained advisor → 5–100 companies impacted.
 - Owners running the system independently within 3–4 months.
