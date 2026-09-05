@@ -6,8 +6,8 @@
 
 **Tool & Methodology Validation:**
 - "I never thought about quickly narrowing it down... It quickly brought, narrowed it from 200 items down to 8 to 10 items."
-- "I love this spreadsheet and I use it actually way more than just for the discovery call."
+- "I love the Maximizer and I use it actually way more than just for the discovery call."
 
 **Business Impact & ROI:**
-- "One Cash is Clear™ client with $1,000,000 in revenue saved $14,000 per month the first time they did this exercise!"
+- "One Cash is Clear® client with $1,000,000 in revenue saved $14,000 per month the first time they did this exercise!"
 - "You helped us understand our average retention rate, this is how much it's worth to you. I was like, holy crap, that's six figures..."
