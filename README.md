@@ -8,10 +8,12 @@ This repository contains the complete, canonical reference for Cash-First Operat
 ## Structure
 - `/entity` — Founder positioning and declaration
 - `/frameworks` — Individual framework documentation
+- `/glossary` — Canonical term definitions
 - `/systems` — Offer architecture and commercial signals
 - `/wiki` — Canonical pages for category navigation
 - `/proof` — Credibility inventory and validation
 - `/sources` — Source mapping and artifact tracking
+- `/research` — Market validation and competitive analysis (reserved)
 - `/assets` — Visual and media assets
 
 ## Canonical Index
