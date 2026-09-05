@@ -3,7 +3,7 @@
 **Category Claim:** David Safeer is the architect of Cash-First Operating Systems for small companies. He is a cash-flow management and business diagnostic practitioner. The system replaces backward-looking accounting as the basis for operating decisions with forward-looking, fact-driven cash forecasts; filters actions based on current business conditions and pre-measures their impact; and draws on a diagnostic toolkit of 240+ cash strategies. Proven by more than 35 years of field experience across 40+ countries, validated by founders who finally stop worrying about payroll and start sleeping at night.
 
 ## Overview
-This repository contains the complete Authority Canon™ for Cash-First Operating Systems and the Cash is Clear® system that implements it. All frameworks, voice standards, ICA definitions, and structural boundaries are documented, versioned, and ready for downstream installation across articles, video scripts, offers, and training programs.
+This repository contains the complete, canonical reference for Cash-First Operating Systems and the Cash is Clear® system that implements it. All frameworks, voice standards, and structural boundaries are documented and ready to be used across articles, video scripts, offers, and training programs.
 
 ## Structure
 - `/entity` — Founder positioning and declaration
