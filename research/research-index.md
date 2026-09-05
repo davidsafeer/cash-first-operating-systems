@@ -1,3 +1,3 @@
 # Research Index
 
-Placeholder for ongoing market validation, competitive analysis, and academic alignment. No active research files committed in v1.0.0.
+Reserved for market validation, competitive analysis, and academic alignment supporting the Cash-First Operating Systems category.
