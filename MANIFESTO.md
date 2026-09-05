@@ -45,7 +45,7 @@ It is not a software add-on, a consulting retainer, or a theoretical finance mod
 
 **The Cash is Clear® 13-Week Forecast.** Updated weekly with actual bank transactions. The accuracy curve is straightforward: extremely reliable two weeks out, a solid directional guide through week ten, and a best-guess horizon for weeks eleven through thirteen. Perfect certainty is not the point. Enough visibility to see the cash gap opening, make the arrangements, and fix the deficit before it lands — that is the point.
 
-**The Cash is Clear® Maximizer.** A diagnostic tool that sorts 240+ cash strategies across 20 categorical buckets. Strategy selection is situational, not prescriptive. A business deploys exactly what its current conditions demand, measured by implementation difficulty, timeline, and long-term profit impact.
+**The Cash is Clear® Maximizer.** A diagnostic tool that sorts 240+ cash strategies across 20+ categorical buckets. Strategy selection is situational, not prescriptive. A business deploys exactly what its current conditions demand, measured by implementation difficulty, timeline, and long-term profit impact.
 
 Together they form a closed loop. The forecast shows where the cash is going. The Maximizer determines what to do about it. Quantify one leak, plug it, repeat. That is how ad-hoc cash management is replaced by a system that scales efficiently.
 
@@ -71,7 +71,7 @@ Focus on cash. Not on accounting.
 
 ## What This Is / What This Is Not
 
-**It is:** an operating discipline for forward-looking, fact-driven cash decisions; a weekly 13-week cash forecast built on real bank transactions; a diagnostic toolkit of 240+ situational cash strategies across 20 categorical buckets; a system installed for owner self-sufficiency.
+**It is:** an operating discipline for forward-looking, fact-driven cash decisions; a weekly 13-week cash forecast built on real bank transactions; a diagnostic toolkit of 240+ situational cash strategies across 20+ categorical buckets; a system installed for owner self-sufficiency.
 
 **It is not:** a fractional-CFO service, compliance or tax work, historical bookkeeping, a software add-on, a perpetual consulting retainer, or a theoretical finance model.
 
