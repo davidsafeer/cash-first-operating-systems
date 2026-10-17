@@ -2,7 +2,7 @@
 
 Welcome to the canonical documentation for Cash-First Operating Systems.
 
-**Core Claim:** Replaces backward-looking accounting with forward-looking, fact-driven cash forecasts for small companies.
+**Core Claim:** Picks up where backward-looking accounting stops, with forward-looking, fact-driven cash forecasts for small companies.
 
 **Navigation:**
 - [Category Claim](https://github.com/davidsafeer/cash-first-operating-systems/blob/main/Category-Claim.md)
