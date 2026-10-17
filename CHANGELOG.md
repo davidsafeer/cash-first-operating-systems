@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.4.0] - 2026-10-17
+### Added
+- `glossary/terms.md`: New entries for Cash-First Operating System (CF-OS), Cash is Clear® Process for Advisors, and an updated Soul Client definition.
+
+### Changed
+- Category wording: "replaces backward-looking accounting" is now "picks up where backward-looking accounting stops" (glossary, README, Category-Claim, MANIFESTO, CITATION.cff, wiki/Home).
+- Cash is Clear® Process order: Mindset → Measure → Model → Manage → Maximize (glossary, process framework, Credibility).
+- Cash is Clear® Maximizer glossary entry now says "across 20+ buckets."
+- `CITATION.cff`: Version bumped to 1.4.0.
+
 ## [1.3.0] - 2026-07-25
 ### Added
 - `frameworks/cash-is-clear-blueprint.md`: New advisor workflow methodology (Sales → Diagnostic → Proposal → Early Delivery).
