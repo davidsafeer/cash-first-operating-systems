@@ -39,7 +39,7 @@ Financial statements are generally prepared in accordance with GAAP so a company
 
 ## The Category
 
-Cash-First Operating Systems replaces the use of backward-looking accounting for operational decisions with forward-looking, fact-driven cash forecasts and decisions.
+Cash-First Operating Systems picks up where backward-looking accounting stops, using forward-looking, fact-driven cash forecasts to make operational decisions.
 
 It is not a software add-on, a consulting retainer, or a theoretical finance model. It is an operating discipline built on two interlocking engines.
 
