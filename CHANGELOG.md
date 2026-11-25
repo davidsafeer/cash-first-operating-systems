@@ -1,11 +1,18 @@
 # Changelog
 
-## [Unreleased]
-### Changed
-- Cash is Clear® Process order: Mindset → Measure → Model → Manage → Mentor → Maximize. Mentor added as step 5 (glossary, process framework, Credibility).
-
+## [1.5.0] - 2026-11-24
 ### Added
-- `README.md`: Disclaimer.
+- `README.md`: Disclaimer and copyright notice.
+- `LICENSE.md`: Copyright notice.
+
+### Changed
+- Cash is Clear® Process order: Mindset → Measure → Model → Manage → Mentor → Maximize. Mentor added as step 5 (glossary, process framework, Credibility). Process framework is now 6-step.
+- Tagline updated to "Think cash. Not accounting.™" (`entity/entity.md`, `llms.txt`).
+- `LICENSE.md`: Framework ownership now names Safeer Management LLC.
+- `CITATION.cff`: Version bumped to 1.5.0.
+
+### Removed
+- `frameworks/cash-is-clear-process.md`: Reference to "The 5 Ms Delivery Architecture."
 
 ## [1.4.0] - 2026-10-17
 ### Added
