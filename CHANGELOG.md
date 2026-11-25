@@ -1,5 +1,12 @@
 # Changelog
 
+## [Unreleased]
+### Changed
+- Cash is Clear® Process order: Mindset → Measure → Model → Manage → Mentor → Maximize. Mentor added as step 5 (glossary, process framework, Credibility).
+
+### Added
+- `README.md`: Disclaimer.
+
 ## [1.4.0] - 2026-10-17
 ### Added
 - `glossary/terms.md`: New entries for Cash-First Operating System (CF-OS), Cash is Clear® Process for Advisors, and an updated Soul Client definition.

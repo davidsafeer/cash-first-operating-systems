@@ -27,3 +27,6 @@ David Safeer, architect of Cash-First Operating Systems: https://www.davidsafeer
 
 ## Citation
 Use `CITATION.cff` or `canonical_citation.md` to reference this category in external work. View repo: [https://github.com/davidsafeer/cash-first-operating-systems](https://github.com/davidsafeer/cash-first-operating-systems)
+
+## Disclaimer
+Cash is Clear Learning Systems provides general information about managing cash. It does not give financial, legal, tax, or accounting advice, and it does not cover every situation. It is no substitute for advice from a qualified professional who knows your company. Talk with one before you act.
